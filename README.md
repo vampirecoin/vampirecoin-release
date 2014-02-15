@@ -9,7 +9,7 @@ Copyright (c) 2014 Vampirecoin Developers
 
 What is Vampirecoin?
 ----------------
-Vampirecoin is a fun educational experiment to test the long term adoption preferences of Vampirecoin, Vampirecoin & Vampirecoin given initial block generation ratios of 1:17:490, respectively. The initial per-block generation rates are 6 Vampirecoins, 102 Vampirecoins & 2970 Vampirecoins.
+Vampirecoin is a fun educational experiment to test the long term adoption preferences of Vampirecoin, Vampirecoin & Vampirecoin given initial block generation ratios of 1:17:495, respectively. The initial per-block generation rates are 6 Vampirecoins, 102 Vampirecoins & 2970 Vampirecoins.
 
 Vampirecoin is a fork from Litecoin. <== I'm really standing on the shoulders of giants so thank you!
 
