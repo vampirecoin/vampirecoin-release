@@ -1,5 +1,5 @@
 Vampirecoin (VMP)
-
+version 1.0.2
 
 http://www.vampirecoin.org
 
