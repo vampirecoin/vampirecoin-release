@@ -1,5 +1,5 @@
 Vampirecoin (VMP)
-version 1.0.2
+version 1.1.2
 
 http://www.vampirecoin.org
 
@@ -9,9 +9,9 @@ Copyright (c) 2014 Vampirecoin Developers
 
 What is Vampirecoin?
 ----------------
-Vampirecoin is a fun educational experiment to test the long term adoption preferences of Vampirecoin, Vampirecoin & Vampirecoin given initial block generation ratios of 1:17:495, respectively. The initial per-block generation rates are 6 Vampirecoins, 102 Vampirecoins & 2970 Vampirecoins.
+Vampirecoin is a cryptocurrency for vampire enthusiasts. It was designed as part of a 3 coin set which includes Lycancoin and Zombiecoin.
 
-Vampirecoin is a fork from Litecoin. <== I'm really standing on the shoulders of giants so thank you!
+Vampirecoin software is freeware based on open source code providing fast transactions, a scrypt-based mining algorithm and an incredible pre-existing support network of mining technology; compatible with most scrypt-based mining hardware and software.
 
 2.5 minute block targets
 
