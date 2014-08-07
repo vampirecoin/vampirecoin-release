@@ -27,7 +27,7 @@ class CInv;
 class CRequestTracker;
 class CNode;
 
-// This fix should give some protection agains sudden
+// This fix should give some protection against sudden
 // changes of the network hashrate.
 // Thanks: https://bitcointalk.org/index.php?topic=182430.msg1904506#msg1904506
 // activated: after block 15000 for all following diff retargeting events
@@ -40,7 +40,7 @@ static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
 static const unsigned int MAX_BLOCK_SIGOPS = MAX_BLOCK_SIZE/50;
 static const unsigned int MAX_ORPHAN_TRANSACTIONS = MAX_BLOCK_SIZE/100;
 static const int FIX_RETARGET_HEIGHT = 39000; // First Fork
-static const int64 MIN_TX_FEE = 10000000;
+static const int64 MIN_TX_FEE = 100000; //reduced from 10,000,000 to 100,000
 static const int64 MIN_RELAY_TX_FEE = MIN_TX_FEE;
 static const int64 MAX_MONEY = 10000000 * COIN; // maximum number of coins
 inline bool MoneyRange(int64 nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
